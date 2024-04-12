@@ -27,3 +27,8 @@ Updating extension
 quarto update bbartholdy/quarto-pdf-pcj
 ```
 
+## Usage
+
+```bash
+quarto render <yourdocument>.qmd --to pci-pdf
+```
