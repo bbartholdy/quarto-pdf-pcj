@@ -9,7 +9,21 @@ To format a preprint for submission to one of the thematic PCIs, I highly recomm
 
 ## Installing
 
+New repository
+
 ```bash
-quarto use template bbartholdy/pci-pdf
+quarto use template bbartholdy/quartp-pdf-pcj
+```
+
+Existing repository/project
+
+```bash
+quarto add bbartholdy/quartp-pdf-pcj
+```
+
+Updating extension
+
+```bash
+quarto update bbartholdy/quartp-pdf-pcj
 ```
 
