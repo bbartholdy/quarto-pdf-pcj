@@ -15,6 +15,11 @@ contributes:
       linestretch: 1.5
       block-headings: false
       keep-tex: true
+      #colorlinks: true
+      link-citations: true
+      urlcolor: pciblue
+      linkcolor: pciblue
+      citecolor: pciblue
       #template: templates/pcj-submission.tex
       include-in-header: _preamble.tex
       #include-before-body: partials/before-body.tex

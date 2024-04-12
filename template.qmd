@@ -1,5 +1,5 @@
 ---
-title: A quarto PCI template using the Typst backend
+title: A Quarto Template for Submission to PCJ
 date: "2024-01-01"
 author:
   - "Camille Noûs"
@@ -17,7 +17,6 @@ abstract: |
   Finally we make some totally reasonable interpretations based on our results and put them into a broader
   context.
 bibliography: sample.bib
-fig-align: center
 ---
 
 # Introduction
@@ -27,7 +26,7 @@ This is an example of text. This realization is especially important because it 
 ## A subsection
 
 In their study "When higher carrying capacities lead to faster propagation",
-#cite(<levins1971regional>, form: "prose") combine mathematical analysis, Individual-Based simulations and experiments to show that various mechanisms can cause pushed fronts, whose speed increases with the carrying capacity K of the species. Rather than focus on one particular angle, the authors endeavor to demonstrate that this qualitative effect appears again and again in a variety of settings.
+@levins1971regional combine mathematical analysis, Individual-Based simulations and experiments to show that various mechanisms can cause pushed fronts, whose speed increases with the carrying capacity K of the species. Rather than focus on one particular angle, the authors endeavor to demonstrate that this qualitative effect appears again and again in a variety of settings.
 
 ### A Subsubsection
 
@@ -67,7 +66,7 @@ We interpret this as being cool. To conclude: Science! End of study.
 This is your acknowledgments.
 <!-- if submitting to PCI Journal, include:-->
 Preprint version XXX<!--change to the correct number--> of this article has been peer-reviewed
-and recommended by Peer Community In XYZ<!--[change to the name of the PCI]--> (https://doi.org/10.24072/pci.xxx<!--[replace with the doi of the recommendation]-->;
+and recommended by Peer Community In XYZ<!--[change to the name of the PCI]--> (<https://doi.org/10.24072/pci.xxx><!--[replace with the doi of the recommendation]-->;
 Enstein, 1997<!--[replace with the citation of the recommendation]-->).
 
 # Funding
