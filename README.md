@@ -12,18 +12,18 @@ To format a preprint for submission to one of the thematic PCIs, I highly recomm
 New repository
 
 ```bash
-quarto use template bbartholdy/quartp-pdf-pcj
+quarto use template bbartholdy/quarto-pdf-pcj
 ```
 
 Existing repository/project
 
 ```bash
-quarto add bbartholdy/quartp-pdf-pcj
+quarto add bbartholdy/quarto-pdf-pcj
 ```
 
 Updating extension
 
 ```bash
-quarto update bbartholdy/quartp-pdf-pcj
+quarto update bbartholdy/quarto-pdf-pcj
 ```
 
