@@ -12,10 +12,9 @@ contributes:
     pdf:
       documentclass: scrartcl
       classoption: [11.5pt,leqno]
-      linestretch: 1.5
+      linestretch: 1.1
       block-headings: false
       keep-tex: true
-      #colorlinks: true
       link-citations: true
       urlcolor: pciblue
       linkcolor: pciblue
