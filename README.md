@@ -32,3 +32,7 @@ quarto update bbartholdy/quarto-pdf-pcj
 ```bash
 quarto render <yourdocument>.qmd --to pci-pdf
 ```
+
+## Example PDF
+
+![Screenshot of the rendered template.qmd](pdf.png)
