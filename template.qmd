@@ -30,7 +30,10 @@ In their study "When higher carrying capacities lead to faster propagation",
 
 ### A Subsubsection
 
-It is perhaps surprising that this notable and general connection between K and invasion speed has managed to garner so little fame in ecology. A large fraction of the literature employs the venerable Fisher-KPP reaction-diffusion model, which combines local logistic growth with linear diffusion in space. This model has prompted both considerable mathematical developments [@crooks2004spatial] and many applications to modelling real invasions [@shigesada1997biological]. But it only allows pulled fronts, driven by the small populations at the edge of a species range, with a speed that depends only on their initial growth rate r.
+It is perhaps surprising that this notable and general connection between K and invasion speed has managed to garner so little fame in ecology. A large fraction of the literature employs the venerable Fisher-KPP reaction-diffusion model, which combines local logistic growth with linear diffusion in space. This model has prompted both considerable mathematical developments [@crooks2004spatial] and many applications to modelling real invasions [@shigesada1997biological]. But it only allows pulled fronts, driven by the small populations at the edge of a species range, with a speed that depends only on their initial growth rate r.  
+A subparagraph (the preceding line is ended with two spaces, i.e., *...growth rate r.*\\s\\s).
+
+A new paragraph with very little content.
 
 # Materials and Methods
 
@@ -54,6 +57,7 @@ Our results came out completely as we expected, as you can see in the table.
 ![This figure shows one of the Datasaurus Dozen datasets. These are multiple different datasets that all produce essentially the same descriptive statistics, showing the importance of data visaulisation. The original Datasaurus was created by Alberto Cairo.](datasaurus.png){#fig-plot}
 
 We also performed additional analyses, but these are beyond the scope of this initial exploratory template study.
+@eq-linear is a random equation.
 
 $$ y = ax + b $${#eq-linear}
 
