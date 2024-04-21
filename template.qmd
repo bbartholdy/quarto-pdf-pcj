@@ -26,7 +26,7 @@ This is an example of text. This realization is especially important because it 
 ## A subsection
 
 In their study "When higher carrying capacities lead to faster propagation",
-@levins1971regional combine mathematical analysis, Individual-Based simulations and experiments to show that various mechanisms can cause pushed fronts, whose speed increases with the carrying capacity K of the species. Rather than focus on one particular angle, the authors endeavor to demonstrate that this qualitative effect appears again and again in a variety of settings.
+@levins1971regional combine mathematical analysis, Individual-Based simulations and experiments to show that various mechanisms can cause pushed fronts, whose speed increases with the carrying capacity K of the species. Rather than focus on one particular angle, the authors endeavor to demonstrate that this qualitative effect appears again and again in a variety of settings [@azarpazhoohSystematicReview2006]<!--hyperref bib overflow check-->.
 
 ### A Subsubsection
 
@@ -42,7 +42,8 @@ We did some things with some stuff.
 
 # Results
 
-Our results came out completely as we expected, as you can see in the table.
+Our results came out completely as we expected, as you can see in the table. Here's also a random symbol
+to ensure that Δ renders properly.
 
 | Default | Left | Right | Center |
 |---------|:-----|------:|:------:|
