@@ -5,7 +5,7 @@ quarto-required: ">=1.4.0"
 contributes:
   formats:
     common:
-      csl: peer-community-journal-pci_Zotero.csl
+      csl: modified_peer-community-journal.csl
       knitr:
         opts_chunk:
           echo: false
